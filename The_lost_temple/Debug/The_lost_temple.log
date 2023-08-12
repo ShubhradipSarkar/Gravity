@@ -1,0 +1,4 @@
+﻿  The_lost_temple.cpp
+C:\Users\shubh\source\repos\The_lost_temple\The_lost_temple\The_lost_temple.cpp(225,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\shubh\source\repos\The_lost_temple\The_lost_temple\The_lost_temple.cpp(234,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  The_lost_temple.vcxproj -> C:\Users\shubh\source\repos\The_lost_temple\Debug\The_lost_temple.exe

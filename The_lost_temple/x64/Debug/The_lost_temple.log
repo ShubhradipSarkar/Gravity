@@ -1,0 +1,4 @@
+﻿  The_lost_temple.cpp
+C:\Users\shubh\source\repos\The_lost_temple\The_lost_temple\The_lost_temple.cpp(65,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shubh\source\repos\The_lost_temple\The_lost_temple\The_lost_temple.cpp(124,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  The_lost_temple.vcxproj -> C:\Users\shubh\source\repos\The_lost_temple\x64\Debug\The_lost_temple.exe
